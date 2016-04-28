@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fridericigodoho00schgoog_0007.png"; bbox 0 0 829 1381; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 745 460 756 575">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 745 460 756 575">
+     <span class='ocr_line' id='line_1_1' title="bbox 745 460 756 575; baseline 38.333 -115"><span class='ocrx_word' id='word_1_1' title='bbox 745 460 756 575; x_wconf 32' lang='lat' dir='ltr'>fluv-,hu</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 748 591 756 808">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 748 591 756 808">
+     <span class='ocr_line' id='line_1_2' title="bbox 748 591 756 808; baseline 108.5 -217"><span class='ocrx_word' id='word_1_2' title='bbox 748 591 756 808; x_wconf 54' lang='lat' dir='ltr'>{fidtniiiw</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 418 1157 440 1170">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 418 1157 440 1170">
+     <span class='ocr_line' id='line_1_3' title="bbox 418 1157 440 1170; baseline 0.091 -2"><span class='ocrx_word' id='word_1_3' title='bbox 418 1157 440 1170; x_wconf 60' lang='grc' dir='ltr'>(ν</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
